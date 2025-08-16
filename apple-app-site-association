@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "RZXHJM4W8T.com.shroomffee.app",
+        "paths": ["/auth/callback"]
+      }
+    ]
+  }
+}
